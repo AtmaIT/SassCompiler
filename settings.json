@@ -1,0 +1,23 @@
+{
+    "minify": true,
+    "debugMode": true,
+    "cwd": "C:/Workspace/B2B/B2BCommerceSet/Development/Presentation/Nop.Web/Themes",
+    "Themes": {
+        "Officer": {
+            "src": "/Content/css/styles.scss",
+            "dist": "/Content/css/styles.css"
+        },
+        "OfficerMobile": {
+            "src": "/Content/css/styles.scss",
+            "dist": "/Content/css/styles.css"
+        },
+        "AllNations": {
+            "src": "/Content/css/styles.scss",
+            "dist": "/Content/css/styles.css"
+        },
+        "AllNationsMobile": {
+            "src": "/Content/css/styles.scss",
+            "dist": "/Content/css/styles.css"
+        }
+    }
+}

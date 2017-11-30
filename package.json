@@ -1,0 +1,22 @@
+{
+  "name": "atma-sass-compiler",
+  "version": "1.0.0",
+  "description": "Compilador de sass desenvolvido para a Atma",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Bordin",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-chmod": "^1.1.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  },
+  "devDependencies": {
+    "grunt-notify": "^0.4.5"
+  }
+}
