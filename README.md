@@ -9,6 +9,7 @@ Primeiramente, verifique se o seu computador tem as dependências necessárias i
   * Node
   * NPM
   * Git
+  * Grunt CLI (Instalar globalmente pelo NPM)
 
 Caso você tenha, abra o terminal, navegue até a pasta que deseja instalar o Compilador e rode os seguintes comandos:
 
