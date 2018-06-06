@@ -1,23 +1,63 @@
 {
     "minify": true,
-    "debugMode": true,
-    "cwd": "C:/Workspace/B2B/B2BCommerceSet/Development/Presentation/Nop.Web/Themes",
+    "debugMode": false,
+    "cwd": "C:/Workspace/B2B Commerce Set/Development/Presentation/Nop.Web/Themes",
     "Themes": {
         "Officer": {
             "src": "/Content/css/styles.scss",
-            "dist": "/Content/css/styles.css"
+            "dist": "/Content/css/styles.min.css"
         },
         "OfficerMobile": {
             "src": "/Content/css/styles.scss",
-            "dist": "/Content/css/styles.css"
+            "dist": "/Content/css/styles.min.css"
         },
         "AllNations": {
             "src": "/Content/css/styles.scss",
-            "dist": "/Content/css/styles.css"
+            "dist": "/Content/css/styles.min.css"
         },
         "AllNationsMobile": {
             "src": "/Content/css/styles.scss",
-            "dist": "/Content/css/styles.css"
+            "dist": "/Content/css/styles.min.css"
+        },
+        "AtmaB2B": {
+            "src": "/Content/css/styles.scss",
+            "dist": "/Content/css/styles.min.css"
+        },
+        "AtmaB2BMobile": {
+            "src": "/Content/css/styles.scss",
+            "dist": "/Content/css/styles.min.css"
+        },
+        "Atma": {
+            "src": "/Content/css/styles.scss",
+            "dist": "/Content/css/styles.min.css"
+        },
+        "AtmaMobile": {
+            "src": "/Content/css/styles.scss",
+            "dist": "/Content/css/styles.min.css"
+        },
+        "Cogra": {
+            "src": "/Content/css/styles.scss",
+            "dist": "/Content/css/styles.min.css"
+        },
+        "CograMobile": {
+            "src": "/Content/css/styles.scss",
+            "dist": "/Content/css/styles.min.css"
+        },
+        "Golden": {
+            "src": "/Content/css/styles.scss",
+            "dist": "/Content/css/styles.min.css"
+        },
+        "GoldenMobile": {
+            "src": "/Content/css/styles.scss",
+            "dist": "/Content/css/styles.min.css"
+        },
+        "Digimess": {
+            "src": "/Content/css/styles.scss",
+            "dist": "/Content/css/styles.min.css"
+        },
+        "DigimessMobile": {
+            "src": "/Content/css/styles.scss",
+            "dist": "/Content/css/styles.min.css"
         }
     }
 }
